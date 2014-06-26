@@ -1,7 +1,11 @@
 aaa
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 bbb
 =======
 olivebbb
+>>>>>>> Stashed changes
+=======
+bbb$$$$mlkhjklj
 >>>>>>> Stashed changes
