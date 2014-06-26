@@ -1,3 +1,7 @@
 aaa
 
+<<<<<<< Updated upstream
 bbb
+=======
+olivebbb
+>>>>>>> Stashed changes
